@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21335" started-at="2017-12-08T22:46:09Z" finished-at="2017-12-08T22:46:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21335" started-at="2017-12-08T22:46:09Z" finished-at="2017-12-08T22:46:30Z">
+      <class name="Selenium_Testing_Gmail.Gmail_Testing.gmail_login">
+        <test-method status="PASS" signature="Test_search()[pri:0, instance:Selenium_Testing_Gmail.Gmail_Testing.gmail_login@6eebc39e]" name="Test_search" duration-ms="12247" started-at="2017-12-08T14:46:09Z" finished-at="2017-12-08T14:46:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_search -->
+      </class> <!-- Selenium_Testing_Gmail.Gmail_Testing.gmail_login -->
+      <class name="Selenium_Testing_Gmail.Gmail_Testing.Gmail_homepage">
+        <test-method status="PASS" signature="Test_login()[pri:0, instance:Selenium_Testing_Gmail.Gmail_Testing.Gmail_homepage@13deb50e]" name="Test_login" duration-ms="9042" started-at="2017-12-08T14:46:21Z" finished-at="2017-12-08T14:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_login -->
+      </class> <!-- Selenium_Testing_Gmail.Gmail_Testing.Gmail_homepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
