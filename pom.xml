@@ -128,7 +128,7 @@
                 <configuration>
                     <testFailureIgnore> false </testFailureIgnore>
                     <suiteXmlFiles>
-                        <suiteXmlFile>test/testng.xml</suiteXmlFile>
+                        <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
           
