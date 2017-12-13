@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="Selenium_Testing_Gmail.Gmail_Testing.Gmail_homepage"/>
+      <class name="Selenium_Testing_Gmail.Gmail_Testing.Frames_examples"/>
       <class name="Selenium_Testing_Gmail.Gmail_Testing.gmail_login"/>
     </classes>
   </test> <!-- Test -->

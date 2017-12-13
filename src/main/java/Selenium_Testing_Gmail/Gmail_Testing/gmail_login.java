@@ -9,7 +9,7 @@ public class gmail_login {
 	
 	@Test
 	public void Test_search(){
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\teja\\Downloads\\New_folder\\chromedriver.exe");
+		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\teja\\Downloads\\New_folder\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 	
 	driver.get("https://www.google.com/");
